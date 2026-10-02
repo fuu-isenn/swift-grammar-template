@@ -14,12 +14,18 @@
 
 【なに食べようかな】気分を選択、スマホを振ってランダムで食べ物を表示(3km範囲のお店)、地図を表示
 
+
 ## 画面
 
 音描-ongaku-
 
+<img width="502" alt="スクリーンショット 2026-09-28 14 12 21" src="https://github.com/user-attachments/assets/662d3806-a855-4fdc-b8aa-4b9ed7a65dad" />
 
 なに食べようかな
+
+<img width="380" alt="IMG_2153" src="https://github.com/user-attachments/assets/0b91a40a-7edd-42c6-b2d0-c989b8643a0e" />
+
+<img width="380" alt="IMG_2154" src="https://github.com/user-attachments/assets/8f61ff76-d77a-4381-8791-dc7fde5df78a" />
 
 
 ## 使った文法・技術
