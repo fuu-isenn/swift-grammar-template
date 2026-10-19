@@ -29,10 +29,35 @@
 ## 使った文法・技術
 
 （例：`@State`、`List`、`ForEach`、構造体、配列の `append` と `remove`）
+CLLocationManager()
+@Published
+@StateObject
+@State
+MapCameraPosition
+MKMapItem
+Map(position: $position, selection: $selectedItem)
+CLLocationCoordinate2D
+MKLocalSearch
+
+
+
+UIImpactFeedbackGenerator
+NSDataAsset
+AVAudioPlayer
+
+NavigationStack 
+RadialGradient
+GeometryReader
+Ellipse
+gesture
+ForEach
 
 ## 生成AIの使い方（どの場面で、どう使ったか）
 
 （例：画面の骨組みは ChatGPT に書いてもらった。削除ボタンが効かなかったので、原因を質問して直した。）
+食べ物を惑星、今日の気分をその周りを回る軌道のように表現したかったので、デザインや実装方法についてAIに相談しました
+店舗をタップしたときに詳細情報を表示するため、mapItemDetailSelectionAccessory()の使い方についてAIに質問しました
+画面をタップするときの効果音をつけるために、AIに相談し、AudioServicesPlaySystemSound(1104)を使う方法を教えてもらいました
 
 ## 展示で工夫した点
 
